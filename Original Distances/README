@@ -1,0 +1,7 @@
+### pickle files of distance computed using Levenshtein edit distance and TFIDF.
+
+##### Basic Levenshtein edit distances:
+
+##### Levenshtein edit distances with PMI:
+
+##### TFIDF: 1gram=unigram, 3grams=(unigram, bigram, trigram):
