@@ -1,4 +1,4 @@
-### pickle files of distance computed using Levenshtein edit distance and TFIDF.
+### pickle files of tone and segment distances computed using Levenshtein edit distance and TFIDF.
 
 #### Basic Levenshtein edit distances:
 initial_char_tone_alignments.pickle <br>
