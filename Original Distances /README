@@ -1,0 +1,1 @@
+This folder contains that four distance files that are abtained using Levenshtein edit distance (with and without PMI) and TFIDF (unigram and combination of gram range 1-3).
